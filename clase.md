@@ -23,11 +23,11 @@ git clone git@github.com:usuario/nombre-repositorio.git
 
 ### 6. Comando que muestre los contenidos de la carpeta para ver que el repositorio está vacio
 
-## 7. Captura de pantalla del resultado de ejecutar git status cuando hay un archivo nuevo que git todavia no está rastreando
+### 7. Captura de pantalla del resultado de ejecutar git status cuando hay un archivo nuevo que git todavia no está rastreando
 
 ![7](https://github.com/marcoojea/ENDES_T2_tarea/assets/152850187/4798b9c8-ff45-462c-8065-5587695e01fb)
 
-## 8. Captura de pantalla del resultado de ejecutar git status cuando hay archivos en fase staged, preparador para hacer un commit
+### 8. Captura de pantalla del resultado de ejecutar git status cuando hay archivos en fase staged, preparador para hacer un commit
 
 ![p8](https://github.com/marcoojea/ENDES_T2_tarea/assets/152850187/3fd43c0e-27ad-4bf2-b465-ba2d36eebc24)
 
